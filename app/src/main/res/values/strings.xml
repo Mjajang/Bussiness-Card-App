@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bussiness Card App</string>
+    <string name="name_text">Jajang Mahrul</string>
+    <string name="title_text">Android Developer Extraordinaire</string>
+    <string name="email_text">jajangmahrul22@gmail.com</string>
+    <string name="share_text">\@_mjajang21</string>
+    <string name="phone_text">+62 851 5600 2130</string>
+</resources>
